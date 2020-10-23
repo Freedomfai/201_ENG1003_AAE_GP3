@@ -1,0 +1,36 @@
+Set 1
+Cf=1 Df=8 Ct=9 Dt=2
+Set 2
+Cf=9 Df=2 Ct=1 Dt=8
+Set 3
+Cf=2 Df=9 Ct=8 Dt=1
+Set 4
+Cf=8 Df=1 Ct=2 Dt=9
+
+Constant
+C_c=10
+Dta=5
+Dfa=5
+Both give a cost of 4202.8918446473945
+
+For Dta and Dfa 
+constant Cf=8,Ct=2,Df=1,Dt=9
+
+Set 1: Dta=1 and Dfa = 9
+Cost =4201.234990397903
+Set 2: Dta=2 and Dfa = 8
+Cost =4201.649203960276
+Set 3: Dta =3 and Dfa= 7
+Cost =4202.063417522649
+Set 4: Dta =4 and Dfa= 6
+Cost =4202.477631085022
+Set 5: Dta =5 and Dfa= 5
+Cost =4202.8918446473945
+Set 6: Dta =6 and Dfa= 4
+Cost =4203.306058209768
+Set 7: Dta =7 and Dfa= 3
+Cost =4203.720271772141
+Set 8: Dta =8 and Dfa= 2
+Cost =4204.1344853345145
+Set 9: Dta =9 and Dfa= 1
+Cost =4204.548698896888
