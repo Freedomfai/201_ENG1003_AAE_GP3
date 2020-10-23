@@ -11,7 +11,7 @@ Constant
 C_c=10
 Dta=5
 Dfa=5
-Both give a cost of 4202.8918446473945
+All sets give a cost of 4202.8918446473945
 
 For Dta and Dfa 
 constant Cf=8,Ct=2,Df=1,Dt=9
