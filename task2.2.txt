@@ -1,3 +1,8 @@
+Step 1: Find the variable of Cf,Df,Ct,Dt by the first constraint  
+CfDf + CtDt ≥ 25					�	
+Cf + Ct ≥ 10						 
+Df� + Dt ≥ 10
+Results:
 Set 1
 Cf=1 Df=8 Ct=9 Dt=2
 Set 2
@@ -6,15 +11,16 @@ Set 3
 Cf=2 Df=9 Ct=8 Dt=1
 Set 4
 Cf=8 Df=1 Ct=2 Dt=9
-
+Test:
 Constant
 C_c=10
 Dta=5
 Dfa=5
 All sets give a cost of 4202.8918446473945
+Cf,Df,Ct,Dt might be independent of Dta and Dfa
 
-For Dta and Dfa 
-constant Cf=8,Ct=2,Df=1,Dt=9
+Step 2:Find the variable Dta and Dfa
+constant Cf=8 Df=1 Ct=2 Dt=9
 
 Set 1: Dta=1 and Dfa = 9
 Cost =4201.234990397903
@@ -34,3 +40,10 @@ Set 8: Dta =8 and Dfa= 2
 Cost =4204.1344853345145
 Set 9: Dta =9 and Dfa= 1
 Cost =4204.548698896888
+
+Conclusion: No matter Set 1-4 in step 1, Dta = 1 and Dfa = 9 will be the smallest cost with the value of 4201.234990397903
+Therefore, the smallest cost will be 4201.234990397903 with :
+1.Cf=1 Df=8 Ct=9 Dt=2 Dta=1 and Dfa = 9 C_c=10
+2.Cf=9 Df=2 Ct=1 Dt=8 Dta=1 and Dfa = 9 C_c=10
+3.Cf=2 Df=9 Ct=8 Dt=1 Dta=1 and Dfa = 9 C_c=10
+4.Cf=8 Df=1 Ct=2 Dt=9 Dta=1 and Dfa = 9 C_c=10
