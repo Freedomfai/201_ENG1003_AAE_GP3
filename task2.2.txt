@@ -64,4 +64,21 @@ delta f=8
 d t =2
 d ta =1
 d fa=9
+
+
+min_x: -10
+min_y: -10
+max_x: 60
+max_y: 60
+x_width: 70
+y_width: 70
+Find goal with cost of ->  4087.3233021524757
+with features
+C_F = 1
+C_T = 12
+C_C = 10
+Delta_F = 13
+Delta_T = 1
+Delta_T_A = 1 
+Delta_F_A = 9
 chenyu Wang 10.29
