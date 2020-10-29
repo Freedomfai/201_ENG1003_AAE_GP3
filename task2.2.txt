@@ -47,3 +47,21 @@ Therefore, the smallest cost will be 4201.234990397903 with :
 2.Cf=9 Df=2 Ct=1 Dt=8 Dta=1 and Dfa = 9 C_c=10
 3.Cf=2 Df=9 Ct=8 Dt=1 Dta=1 and Dfa = 9 C_c=10
 4.Cf=8 Df=1 Ct=2 Dt=9 Dta=1 and Dfa = 9 C_c=10
+
+
+
+min_x: -10
+min_y: -10
+max_x: 60
+max_y: 60
+x_width: 70
+y_width: 70
+Find goal with cost of ->  4201.234990397903
+with features below,
+cf=1
+ct=9
+delta f=8
+d t =2
+d ta =1
+d fa=9
+chenyu Wang 10.29
