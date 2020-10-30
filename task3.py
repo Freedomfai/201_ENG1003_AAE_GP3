@@ -317,7 +317,7 @@ def main():
     # set minus cost area
     pc_x, pc_y = [], []
     for i in range(0, 1):
-        for j in range(34, 50):
+        for j in range(33, 49):
             pc_x.append(i)
             pc_y.append(j)
 
