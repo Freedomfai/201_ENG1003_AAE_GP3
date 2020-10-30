@@ -16,3 +16,15 @@ Data from Law Yui Fai
 2.24023.52559935244
 3.29719.110011624045
 4.41110.278836167134
+
+
+method:
+l used linear progranming
+def ct as x, cf as y
+found a triangular range
+A(40,60) B(20,20) C(54.2857, 2.8571)
+
+with those constants
+
+data from chenyu wang
+A = 58197.03207298188     B = 24023.52559935244    C = 33787.35204562133
